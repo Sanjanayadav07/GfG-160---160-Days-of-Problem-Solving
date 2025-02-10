@@ -9,4 +9,4 @@ Unleash the power of arrays with these fundamental to advanced problems.
 | 🗓️ **Day** | 🚀 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |------------|---------------|--------------|-----------------|  
 | Day 1      | **Second Largest** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%201%20Second%20Largest.md) |  
-| Day 2      | **Move All Zeroes to End** | 🟢 Easy | [Solved Check It Now!](./GFG%20-%20160%20(Arrays)/Day%202%20-%20Move%20All%20Zeroes%20to%20End.md) |  
+| Day 2      | **Move All Zeroes to End** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%202%20Move%20All%20Zeroes%20to%20End.md) |  
