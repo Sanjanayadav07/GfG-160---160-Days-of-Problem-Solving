@@ -10,3 +10,13 @@ Unleash the power of arrays with these fundamental to advanced problems.
 |------------|---------------|--------------|-----------------|  
 | Day 1      | **Second Largest** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%201%20Second%20Largest.md) |  
 | Day 2      | **Move All Zeroes to End** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%202%20Move%20All%20Zeroes%20to%20End.md) |  
+| Day 4      | **Rotate Array** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 5      | **Next Permutation** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 6      | **Majority Element II** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 7      | **Stock Buy and Sell – Multiple Transactions Allowed** | 🔴 Hard | [Solved Check It Now!]() |  
+| Day 8      | **Stock Buy and Sell – Max One Transaction Allowed** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 9      | **Minimize the Heights II** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 10     | **Kadane's Algorithm** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 11     | **Maximum Product Subarray** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 12     | **Max Circular Subarray Sum** | 🔴 Hard | [Solved Check It Now!]() |  
+| Day 13     | **Smallest Positive Missing Number** | 🟡 Medium | [Solved Check It Now!]() |  
