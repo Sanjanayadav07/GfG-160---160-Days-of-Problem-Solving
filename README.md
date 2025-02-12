@@ -12,7 +12,7 @@ Unleash the power of arrays with these fundamental to advanced problems.
 | Day 2      | **Move All Zeroes to End** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%202%20Move%20All%20Zeroes%20to%20End.md) | 
 | Day 3      | **Reverse an Array** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Reverse%20an%20Array.md) |  
 | Day 4      | **Rotate Array** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%204.%20Rotate%20Array.md) |  
-| Day 5      | **Next Permutation** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 5      | **Next Permutation** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%205%20%20Next%20Permutation) |  
 | Day 6      | **Majority Element II** | 🟡 Medium | [Solved Check It Now!]() |  
 | Day 7      | **Stock Buy and Sell – Multiple Transactions Allowed** | 🔴 Hard | [Solved Check It Now!]() |  
 | Day 8      | **Stock Buy and Sell – Max One Transaction Allowed** | 🟢 Easy | [Solved Check It Now!]() |  
