@@ -67,6 +67,7 @@ The next permutation of the given array is `[3, 4, 5, 1, 2]`.
 ## Code (Java)
 
 ```java
+
 class Solution {
     void nextPermutation(int[] arr) {
         int n = arr.length;
