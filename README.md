@@ -14,7 +14,7 @@ Unleash the power of arrays with these fundamental to advanced problems.
 | Day 4      | **Rotate Array** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%204.%20Rotate%20Array.md) |  
 | Day 5      | **Next Permutation** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%205%20%20Next%20Permutation.md) |  
 | Day 6      | **Majority Element II** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%206%20%20Majority%20Element%20II.md) |  
-| Day 7      | **Stock Buy and Sell – Multiple Transactions Allowed** | 🔴 Hard | [Solved Check It Now!]() |  
+| Day 7      | **Stock Buy and Sell – Multiple Transactions Allowed** | 🔴 Hard | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%207%20%20Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed.md) |  
 | Day 8      | **Stock Buy and Sell – Max One Transaction Allowed** | 🟢 Easy | [Solved Check It Now!]() |  
 | Day 9      | **Minimize the Heights II** | 🟡 Medium | [Solved Check It Now!]() |  
 | Day 10     | **Kadane's Algorithm** | 🟡 Medium | [Solved Check It Now!]() |  
