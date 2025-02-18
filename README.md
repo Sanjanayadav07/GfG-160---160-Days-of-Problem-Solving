@@ -17,7 +17,7 @@ Unleash the power of arrays with these fundamental to advanced problems.
 | Day 7      | **Stock Buy and Sell – Multiple Transactions Allowed** | 🔴 Hard | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%207%20%20Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed.md) |  
 | Day 8      | **Stock Buy and Sell – Max One Transaction Allowed** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%208%20Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20one%20Transaction%20Allowed.md) |  
 | Day 9      | **Minimize the Heights II** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%209%20Minimize%20the%20Heights%20II.md) |  
-| Day 10     | **Kadane's Algorithm** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 10     | **Kadane's Algorithm** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Arrays/Day%2010%20%20Kadane's%20Algorithm.md) |  
 | Day 11     | **Maximum Product Subarray** | 🟡 Medium | [Solved Check It Now!]() |  
 | Day 12     | **Max Circular Subarray Sum** | 🔴 Hard | [Solved Check It Now!]() |  
 | Day 13     | **Smallest Positive Missing Number** | 🟡 Medium | [Solved Check It Now!]() |  
