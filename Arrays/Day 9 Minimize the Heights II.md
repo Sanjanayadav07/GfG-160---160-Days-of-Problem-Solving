@@ -6,7 +6,7 @@ Tags:
   - Greedy  
 ---
 
-# 🚀 _Day 9. Minimize the Heights II_ 🧠
+#  _Day 9. Minimize the Heights II_ 
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351)
 
