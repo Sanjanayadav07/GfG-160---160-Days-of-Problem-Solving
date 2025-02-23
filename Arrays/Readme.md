@@ -17,7 +17,7 @@ This repository is your companion for 160 days of consistent problem-solving, fo
 
 ## 🚀 **Languages Used**
 
-- [![Java]()
+- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3AJava+path%3ANovember+2024+GFG+SOLUTION&type=code)
 
 
 ## **📊 Progress Overview**
