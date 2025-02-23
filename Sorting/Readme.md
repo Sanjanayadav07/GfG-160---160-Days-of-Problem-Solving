@@ -39,3 +39,15 @@ This repository is your companion for 160 days of consistent problem-solving, fo
 | Day 19     | **Min Chars to Add for Palindrome** | 🔴 Hard | [Solved Check It Now!]() |  
 | Day 20     | **Strings Rotations of Each Other** | 🟢 Easy | [Solved Check It Now!]() |  
 
+## **🤝 Contributing**
+Want to contribute? 🌟 Here's how:
+1. Fork the repository and create a _pull request_ with a new solution.
+2. Solve a problem or improve existing code/documentation.
+3. Share this repo with others, and encourage them to star it for support!
+4. Discuss issues and share tips by opening an issue or using the Discussions tab.
+
+
+## **🏆 Acknowledgements**
+This repository is maintained with <img src="https://github.com/user-attachments/assets/00314b63-96bb-4e9a-92f6-4ead67e0fb7d" width="20" height="20"> by **Sanjana Yadav**. Special thanks to all contributors and supporters for making this journey possible!
+
+##### Special thanks to the _GeeksforGeeks_ community for providing such an amazing set of problems to work on. Without their platform, this wouldn't have been possible. 🧑‍💻
