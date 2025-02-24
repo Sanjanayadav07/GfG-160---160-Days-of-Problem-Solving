@@ -26,18 +26,20 @@ This repository is your companion for 160 days of consistent problem-solving, fo
 > **Target**: Solve all 160 problems! 🏆
 
 ## **📅 Day-wise Problem List**
+# 🔥 **Sorting Challenges**  
+Polish your sorting skills with these curated problems.  
+✨ **Days Covered:** **21 to 27**  
 
-## **🔀 GFG 160 Days of Problem Solving (Sorting) 🔀** 
-
-| 🗓️ **Day** | 💡 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
+| 🗓️ **Day** | 🔥 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |------------|---------------|--------------|-----------------|  
-| Day 14     | **Implement Atoi** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 15     | **Add Binary Strings** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 16     | **Anagram** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 17     | **Non-Repeating Character** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 18     | **Search Pattern (KMP Algorithm)** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 19     | **Min Chars to Add for Palindrome** | 🔴 Hard | [Solved Check It Now!]() |  
-| Day 20     | **Strings Rotations of Each Other** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 21     | **Sort 0s, 1s, and 2s** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 22     | **Find H-Index** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 23     | **Count Inversions** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 24     | **Overlapping Intervals** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 25     | **Insert Interval** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 26     | **Non-overlapping Intervals** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 27     | **Merge Without Extra Space** | 🔴 Hard | [Solved Check It Now!]() |  
+
 
 ## **🤝 Contributing**
 Want to contribute? 🌟 Here's how:
