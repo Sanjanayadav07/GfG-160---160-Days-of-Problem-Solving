@@ -32,7 +32,7 @@ Polish your sorting skills with these curated problems.
 
 | 🗓️ **Day** | 🔥 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |------------|---------------|--------------|-----------------|  
-| Day 21     | **Sort 0s, 1s, and 2s** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 21     | **Sort 0s, 1s, and 2s** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%201%20%20Sort%200s%2C%201s%20and%202s.md) |  
 | Day 22     | **Find H-Index** | 🟡 Medium | [Solved Check It Now!]() |  
 | Day 23     | **Count Inversions** | 🟡 Medium | [Solved Check It Now!]() |  
 | Day 24     | **Overlapping Intervals** | 🟡 Medium | [Solved Check It Now!]() |  
