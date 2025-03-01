@@ -38,7 +38,7 @@ Polish your sorting skills with these curated problems.
 | Day 24     | **Overlapping Intervals** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%204%20%20Overlapping%20Intervals.md) |  
 | Day 25     | **Insert Interval** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%205%20%20Insert%20Interval.md) |  
 | Day 26     | **Non-overlapping Intervals** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%206%20%20Non-overlapping%20Intervals.md) |  
-| Day 27     | **Merge Without Extra Space** | 🔴 Hard | [Solved Check It Now!]() |  
+| Day 27     | **Merge Without Extra Space** | 🔴 Hard | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/tree/main/Sorting) |  
 
 
 ## **🤝 Contributing**
