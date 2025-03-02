@@ -29,3 +29,20 @@ This repository is your companion for 160 days of consistent problem-solving, fo
 ## **📅 Day-wise Problem List**
 
 ## **👀 GFG 160 Days of Problem Solving (Searching) 👀**
+
+# 🔍 **Searching Proficiency**  
+Master the art of searching techniques with these essential problems.  
+✨ **Days Covered:** **28 to 35**
+
+| 🗓️ **Day** | 🔍 **Problem**                           | 🌟 **Level**   | 📂 **Java**                                    |  
+|------------|---------------|--------------|-----------------|  
+| Day 28     | **Number of Occurrence** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 29     | **Sorted and Rotated Minimum** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 30     | **Search in Rotated Sorted Array** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 31     | **Peak element** | 🟤 Basic | [Solved Check It Now!]() |  
+| Day 32     | **K-th element of two Arrays** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 33     | **Aggressive Cows** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 34     | **Allocate Minimum Pages** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 35     | **Kth Missing Positive Number in a Sorted Array** | 🟡 Medium | [Solved Check It Now!]() |  
+
+
