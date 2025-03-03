@@ -45,14 +45,7 @@ The minimum element is `4`.
 
 ## 🎯 **My Approach:**
 
-1. **Binary Search in a Rotated Array:**  
-   - To find the minimum element in a rotated sorted array, we leverage **binary search** to reduce the search space efficiently.
-   - Use two pointers, `lo` and `hi`, to represent the current range. Compare the middle element with the last element to determine the rotation point.
-
-2. **Handling Duplicates:**  
-   - When duplicates are present, special handling is required to ensure correctness. In such cases, we adjust the `hi` pointer if `arr[mid]` equals `arr[hi]`.
-
-3. **Steps:**  
+. **Steps:**  
    - Initialize two pointers, `lo` and `hi`, to the start and end of the array.  
    - If `arr[lo] < arr[hi]`, the array is not rotated, and `arr[lo]` is the minimum.  
    - Compute the middle index `mid`.  
