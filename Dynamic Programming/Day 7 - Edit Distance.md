@@ -6,7 +6,7 @@ Tags:
   - Strings
 ---
 
-# 🚀 _Day 7. Edit Distance_ 🧠
+#  _Day 7. Edit Distance_ 
 
 
 The problem can be found at the following link: [Question Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/edit-distance3702)  
@@ -135,6 +135,6 @@ s2 = "bcfe"
 ```
 ## 🎯 **Contribution and Support:**
 
-For discussions, questions, or doubts related to this solution, feel free to connect on LinkedIn: [Any Questions](https://www.linkedin.com/in/). Let’s make this learning journey more collaborative!
+For discussions, questions, or doubts related to this solution, feel free to connect on LinkedIn: [Any Questions](https://www.linkedin.com/in/sanjana-yadav007). Let’s make this learning journey more collaborative!
 
 ⭐ If you find this helpful, please give this repository a star! ⭐
