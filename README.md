@@ -54,5 +54,17 @@ Polish your sorting skills with these curated problems.
 | Day 27     | **Merge Without Extra Space** | 🔴 Hard | [Solved Check It Now!]() |  
 
 
-## 🔖 **Bonus Problems**  
+# 🔍 **Searching Proficiency**  
+Master the art of searching techniques with these essential problems.  
+✨ **Days Covered:** **28 to 35**
 
+| 🗓️ **Day** | 🔍 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
+|------------|---------------|--------------|-----------------|  
+| Day 28     | **Number of Occurrence** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 29     | **Sorted and Rotated Minimum** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 30     | **Search in Rotated Sorted Array** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 31     | **Peak element** | 🟤 Basic | [Solved Check It Now!]() |  
+| Day 32     | **K-th element of two Arrays** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 33     | **Aggressive Cows** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 34     | **Allocate Minimum Pages** | 🟡 Medium | [Solved Check It Now!]() | 
+| Day 35     | **Kth Missing Positive Number in a Sorted Array** | 🟡 Medium | [Solved Check It Now!]() |  
