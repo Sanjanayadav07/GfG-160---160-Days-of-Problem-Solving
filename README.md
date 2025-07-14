@@ -67,4 +67,18 @@ Master the art of searching techniques with these essential problems.
 | Day 32     | **K-th element of two Arrays** | 🟡 Medium | [Solved Check It Now!]() |  
 | Day 33     | **Aggressive Cows** | 🟡 Medium | [Solved Check It Now!]() |  
 | Day 34     | **Allocate Minimum Pages** | 🟡 Medium | [Solved Check It Now!]() | 
-| Day 35     | **Kth Missing Positive Number in a Sorted Array** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 35     | **Kth Missing Positive Number in a Sorted Array** | 🟡 Medium | [Solved Check It Now!]() | 
+
+
+# 🧮 **Matrix Maneuvers**  
+Navigate through the realm of matrices with these essential problems.  
+✨ **Days Covered:** **36 to 41**
+
+| 🗓️ **Day** | 🧮 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
+|------------|---------------|--------------|-----------------|  
+| Day 36     | **Spirally traversing a matrix** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 37     | **Rotate by 90 degree** | 🟢 Easy | [Solved Check It Now!]() | 
+| Day 38     | **Search in a Row-Column sorted matrix** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 39     | **Search in a row-wise sorted matrix** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 40     | **Search in a sorted Matrix** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 41     | **Set Matrix Zeroes** | 🟡 Medium | [Solved Check It Now!]() |
