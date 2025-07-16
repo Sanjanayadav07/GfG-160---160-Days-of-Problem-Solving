@@ -5,7 +5,7 @@ Tags:
   - Tree
 ---
 
-# 🚀 _Day 3. Diameter of a Binary Tree_ 🧠
+#  _Day 3. Diameter of a Binary Tree_ 
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/diameter-of-binary-tree)
 
