@@ -5,7 +5,7 @@ Tags:
   - Linked-List
 ---
 
-# 🚀 _Day 3. Merge Two Sorted Linked Lists_ 🧠
+# _Day 3. Merge Two Sorted Linked Lists_ 
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/merge-two-sorted-linked-lists)
 
