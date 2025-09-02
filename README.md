@@ -82,3 +82,47 @@ Navigate through the realm of matrices with these essential problems.
 | Day 39     | **Search in a row-wise sorted matrix** | 🟢 Easy | [Solved Check It Now!]() |
 | Day 40     | **Search in a sorted Matrix** | 🟡 Medium | [Solved Check It Now!]() |
 | Day 41     | **Set Matrix Zeroes** | 🟡 Medium | [Solved Check It Now!]() |
+
+# #️⃣ **Hash Hustle**  
+Master the art of hashing with these pivotal problems.  
+✨ **Days Covered:** **42 to 50**
+
+| 🗓️ **Day** | #️⃣ **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    | 
+|------------|--------------------------|--------------|-----------------|  
+| Day 42     | **Two Sum - Pair with Given Sum** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 43     | **Count Pairs with Given Sum** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 44     | **Find All Triplets with Zero Sum** | 🟡 Medium | [Solved Check It Now!]() |  
+| Day 45     | **Intersection of Two arrays with Duplicate Elements** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 46     | **Union of Arrays with Duplicates** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 47     | **Longest Consecutive Subsequence** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 48     | **Print Anagrams Together** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 49     | **Subarrays with sum K** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 50     | **Count Subarrays with given XOR** | 🟡 Medium | [Solved Check It Now!]() |
+
+# 🔄 **Pointer Pursuit**  
+Optimize your journey with the elegance of two-pointer techniques.  
+✨ **Days Covered:** **51 to 60**
+
+| 🗓️ **Day** | 🔄 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |
+|------------|--------------------------|--------------|-----------------|  
+| Day 51     | **Count all triplets with given sum in sorted array** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 52     | **Count Pairs whose sum is less than target** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 53     | **Sum Pair closest to target** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 54     | **Pair with given sum in a sorted array** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 55     | **Count the number of possible triangles** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 56     | **Indexes of Subarray Sum** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 57     | **Count distinct elements in every window** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 58     | **Longest substring with distinct characters** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 59     | **Trapping Rain Water** | 🔴 Hard | [Solved Check It Now!]() |
+| Day 60     | **Container With Most Water** | 🟡 Medium | [Solved Check It Now!]() |
+
+# 🗺️ **Prefix Precision**  
+Master the art of prefix sum with these essential problems.  
+✨ **Days Covered:** **61 to 64**
+
+| 🗓️ **Day** | 🗺️ **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
+|------------|--------------------------|--------------|-----------------|  
+| Day 61     | **Equilibrium Point** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 62     | **Longest Subarray with Sum K** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 63     | **Largest subarray of 0's and 1's** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 64     | **Product array puzzle** | 🟢 Easy | [Solved Check It Now!]() |
