@@ -105,16 +105,16 @@ Optimize your journey with the elegance of two-pointer techniques.
 
 | 🗓️ **Day** | 🔄 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |
 |------------|--------------------------|--------------|-----------------|  
-| Day 51     | **Count all triplets with given sum in sorted array** | 🟡 Medium | [Solved Check It Now!]() |
-| Day 52     | **Count Pairs whose sum is less than target** | 🟡 Medium | [Solved Check It Now!]() |
-| Day 53     | **Sum Pair closest to target** | 🟢 Easy | [Solved Check It Now!]() |
-| Day 54     | **Pair with given sum in a sorted array** | 🟢 Easy | [Solved Check It Now!]() |
-| Day 55     | **Count the number of possible triangles** | 🟡 Medium | [Solved Check It Now!]() |
-| Day 56     | **Indexes of Subarray Sum** | 🟡 Medium | [Solved Check It Now!]() |
-| Day 57     | **Count distinct elements in every window** | 🟢 Easy | [Solved Check It Now!]() |
-| Day 58     | **Longest substring with distinct characters** | 🟢 Easy | [Solved Check It Now!]() |
-| Day 59     | **Trapping Rain Water** | 🔴 Hard | [Solved Check It Now!]() |
-| Day 60     | **Container With Most Water** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 51     | **Count all triplets with given sum in sorted array** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%201%20-%20Count%20all%20triplets%20with%20given%20sum%20in%20sorted%20array.md) |
+| Day 52     | **Count Pairs whose sum is less than target** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%202%20-%20Count%20Pairs%20whose%20sum%20is%20less%20than%20target.md) |
+| Day 53     | **Sum Pair closest to target** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%203%20-%20Sum%20Pair%20closest%20to%20target.md) |
+| Day 54     | **Pair with given sum in a sorted array** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%204%20-%20Pair%20with%20given%20sum%20in%20a%20sorted%20array.md) |
+| Day 55     | **Count the number of possible triangles** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%205%20-%20Count%20the%20number%20of%20possible%20triangles.mdDay%205%20-%20Count%20the%20number%20of%20possible%20triangles.md) |
+| Day 56     | **Indexes of Subarray Sum** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%206%20-%20Indexes%20of%20Subarray%20Sum.md) |
+| Day 57     | **Count distinct elements in every window** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%207%20-%20Count%20distinct%20elements%20in%20every%20window.md) |
+| Day 58     | **Longest substring with distinct characters** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%208%20-%20Longest%20substring%20with%20distinct%20characters.md) |
+| Day 59     | **Trapping Rain Water** | 🔴 Hard | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%209%20-%20Trapping%20Rain%20Water.md) |
+| Day 60     | **Container With Most Water** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Two%20Pointer%20Technique/Day%2010%20-%20Container%20With%20Most%20Water.md) |
 
 # 🗺️ **Prefix Precision**  
 Master the art of prefix sum with these essential problems.  
@@ -122,7 +122,61 @@ Master the art of prefix sum with these essential problems.
 
 | 🗓️ **Day** | 🗺️ **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |------------|--------------------------|--------------|-----------------|  
-| Day 61     | **Equilibrium Point** | 🟢 Easy | [Solved Check It Now!]() |
-| Day 62     | **Longest Subarray with Sum K** | 🟡 Medium | [Solved Check It Now!]() |
-| Day 63     | **Largest subarray of 0's and 1's** | 🟢 Easy | [Solved Check It Now!]() |
-| Day 64     | **Product array puzzle** | 🟢 Easy | [Solved Check It Now!]() |
+| Day 61     | **Equilibrium Point** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Prefix%20Sum/Day%201%20-%20Equilibrium%20Point.md) |
+| Day 62     | **Longest Subarray with Sum K** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Prefix%20Sum/Day%202%20-%20Longest%20Subarray%20with%20Sum%20K.md) |
+| Day 63     | **Largest subarray of 0's and 1's** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Prefix%20Sum/Day%203%20-%20Largest%20subarray%20of%200's%20and%201's.md) |
+| Day 64     | **Product array puzzle** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Prefix%20Sum/Day%204%20-%20Product%20array%20puzzle.md) |
+
+# 🔗 **Linked List Chronicles**  
+Master the art of linked lists with smart manipulation and efficient designs.  
+✨ **Days Covered:** **65 to 74**
+
+| 🗓️ **Day** | 🔗 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    | 
+|------------|--------------------------|--------------|-----------------|  
+| Day 65      | Reverse a Linked List           | 🟢 Easy        | [Solved Check It Now!]()   |  
+| Day 66      | Rotate a Linked List           | 🟡 Medium        | [Solved Check It Now!]()   |  
+| Day 67      | Merge two sorted linked lists           | 🟡 Medium        | [Solved Check It Now!]()   |  
+| Day 68      | Linked List Group Reverse         |    🔴 Hard     | [Solved Check It Now!]()   |  
+| Day 69      | Add Number Linked Lists           |     🟡 Medium    | [Solved Check It Now!]()   |  
+| Day 70      | Clone List with Next and Random           |     🔴 Hard    | [Solved Check It Now!]()   |  
+| Day 71      | Detect Loop in linked list           |     🟡 Medium    | [Solved Check It Now!]()   |  
+| Day 72      | Find the first node of loop in linked list           |     🟢 Easy    | [Solved Check It Now!]()   |  
+| Day 73      | Remove loop in Linked List            |     🟡 Medium    | [Solved Check It Now!]()   |  
+| Day 74      | LRU Cache             |     🔴 Hard    | [Solved Check It Now!]()   |  
+
+# 🌀 **Recursion and Backtracking Adventure**
+Dive into the magical world of recursion and backtracking to crack even the trickiest problems! 
+
+✨ **Days Covered:** **75 to 79**
+
+| 🗓️ **Day** | 🌀 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
+|-------------|------------------------------------------|----------------|--------------------------------------------------|  
+| Day 75      | Permutations of a Given String        | 🟡 Medium      | [Solved Check It Now!]() |
+| Day 76      | Implement Pow                         |  🟡 Medium      | [Solved Check It Now!]() |
+| Day 77      | N-Queen Problem                         | 🔴 Hard      | [Solved Check It Now!]() |
+| Day 78      | Solve the Sudoku                         | 🔴 Hard      | [Solved Check It Now!]() |
+| Day 79      | Word Search                         |    🟡 Medium   | [Solved Check It Now!]() |
+
+# 🌳 **Tree Traversals and Techniques**  
+Explore the depths of tree data structures with powerful traversal techniques!  
+
+✨ **Days Covered:** **80 to 94**  
+
+| 🗓️ **Day**  | 🌲 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
+|-------------|------------------------------------------|----------------|--------------------------------------------------|  
+| Day 80      | Level Order Traversal      |   🟢 Easy    | [Solved Check It Now!]() |  
+| Day 81      | Height of Binary Tree      |   🟢 Easy    | [Solved Check It Now!]() |  
+| Day 82      | Diameter of a Binary Tree      |   🟡 Medium    | [Solved Check It Now!]() |  
+| Day 83      | Mirror Tree      |    🟢 Easy    | [Solved Check It Now!]() |  
+| Day 84      | Construct Tree from Inorder & Preorder      |    🟡 Medium    | [Solved Check It Now!]() |  
+| Day 85      | Inorder Traversal      |    🟢 Easy    | [Solved Check It Now!]() |  
+| Day 86      | Tree Boundary Traversal      |    🟡 Medium    | [Solved Check It Now!]() |  
+| Day 87      | Maximum path sum from any node      |    🟡 Medium    | [Solved Check It Now!]() |  
+| Day 88      | K Sum Paths      |    🟡 Medium    | [Solved Check It Now!]() |  
+| Day 89      | Check for BST      |    🟢 Easy    | [Solved Check It Now!]() |  
+| Day 90      | k-th Smallest in BST      |    🟡 Medium    | [Solved Check It Now!]() |  
+| Day 91      | Pair Sum in BST      |    🟡 Medium    | [Solved Check It Now!]() |  
+| Day 92      | Fixing Two nodes of a BST      |    🔴 Hard    | [Solved Check It Now!]() |  
+| Day 93      | Lowest Common Ancestor in a BST      |    🟢 Easy    | [Solved Check It Now!]() |  
+| Day 94      | Serialize and deserialize a binary tree      |    🟡 Medium    | [Solved Check It Now!]() |  
+
