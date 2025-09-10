@@ -30,13 +30,13 @@ Master the art of string manipulation with these intriguing challenges.
 
 | 🗓️ **Day** | 💡 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |------------|---------------|--------------|-----------------|  
-| Day 14     | **Implement Atoi** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 15     | **Add Binary Strings** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 16     | **Anagram** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 17     | **Non-Repeating Character** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 18     | **Search Pattern (KMP Algorithm)** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 19     | **Min Chars to Add for Palindrome** | 🔴 Hard | [Solved Check It Now!]() |  
-| Day 20     | **Strings Rotations of Each Other** | 🟢 Easy | [Solved Check It Now!]() |  
+| Day 14     | **Implement Atoi** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Strings/Day%201%20-%20Implement%20Atoi.md) |  
+| Day 15     | **Add Binary Strings** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Strings/Day%202%20-%20Add%20Binary%20Strings.md) |  
+| Day 16     | **Anagram** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Strings/Day%203%20-%20Anagram.md) |  
+| Day 17     | **Non-Repeating Character** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Strings/Day%204%20-%20Non%20Repeating%20Character.md) |  
+| Day 18     | **Search Pattern (KMP Algorithm)** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Strings/Day%205%20-%20Search%20Pattern%20(KMP-Algorithm).md) |  
+| Day 19     | **Min Chars to Add for Palindrome** | 🔴 Hard | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Strings/Day%206%20-%20Min%20Chars%20to%20Add%20for%20Palindrome.md) |  
+| Day 20     | **Strings Rotations of Each Other** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Strings/Day%207%20-%20Strings%20Rotations%20of%20Each%20Other.md) |  
 
 
 # 🔥 **Sorting Challenges**  
@@ -45,13 +45,13 @@ Polish your sorting skills with these curated problems.
 
 | 🗓️ **Day** | 🔥 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |------------|---------------|--------------|-----------------|  
-| Day 21     | **Sort 0s, 1s, and 2s** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 22     | **Find H-Index** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 23     | **Count Inversions** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 24     | **Overlapping Intervals** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 25     | **Insert Interval** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 26     | **Non-overlapping Intervals** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 27     | **Merge Without Extra Space** | 🔴 Hard | [Solved Check It Now!]() |  
+| Day 21     | **Sort 0s, 1s, and 2s** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%201%20%20Sort%200s%2C%201s%20and%202s.md) |  
+| Day 22     | **Find H-Index** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%202%20%20Find%20H-Index.md) |  
+| Day 23     | **Count Inversions** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%203%20%20Count%20Inversions.md) |  
+| Day 24     | **Overlapping Intervals** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%204%20%20Overlapping%20Intervals.md) |  
+| Day 25     | **Insert Interval** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%205%20%20Insert%20Interval.md) |  
+| Day 26     | **Non-overlapping Intervals** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%206%20%20Non-overlapping%20Intervals.md) |  
+| Day 27     | **Merge Without Extra Space** | 🔴 Hard | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Sorting/Day%207%20%20Merge%20Without%20Extra%20Space.md) |  
 
 
 # 🔍 **Searching Proficiency**  
@@ -60,14 +60,14 @@ Master the art of searching techniques with these essential problems.
 
 | 🗓️ **Day** | 🔍 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |------------|---------------|--------------|-----------------|  
-| Day 28     | **Number of Occurrence** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 29     | **Sorted and Rotated Minimum** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 30     | **Search in Rotated Sorted Array** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 31     | **Peak element** | 🟤 Basic | [Solved Check It Now!]() |  
-| Day 32     | **K-th element of two Arrays** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 33     | **Aggressive Cows** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 34     | **Allocate Minimum Pages** | 🟡 Medium | [Solved Check It Now!]() | 
-| Day 35     | **Kth Missing Positive Number in a Sorted Array** | 🟡 Medium | [Solved Check It Now!]() | 
+| Day 28     | **Number of Occurrence** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Searching/Day%201%20-%20Number%20of%20occurrence.md) |  
+| Day 29     | **Sorted and Rotated Minimum** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Searching/Day%202%20-%20Sorted%20and%20Rotated%20Minimum.md) |  
+| Day 30     | **Search in Rotated Sorted Array** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Searching/Day%203%20-%20Search%20in%20Rotated%20Sorted%20Array.md) |  
+| Day 31     | **Peak element** | 🟤 Basic | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Searching/Day%204%20-%20Peak%20element.md) |  
+| Day 32     | **K-th element of two Arrays** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Searching/Day%205%20-%20K-th%20element%20of%20two%20Arrays.md) |  
+| Day 33     | **Aggressive Cows** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Searching/Day%206%20-%20Aggressive%20Cows.md) |  
+| Day 34     | **Allocate Minimum Pages** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Searching/Day%207%20-%20Allocate%20Minimum%20Pages.md) | 
+| Day 35     | **Kth Missing Positive Number in a Sorted Array** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Searching/Day%208%20-%20Kth%20Missing%20Positive%20Number%20in%20a%20Sorted%20Array.md) | 
 
 
 # 🧮 **Matrix Maneuvers**  
@@ -76,12 +76,12 @@ Navigate through the realm of matrices with these essential problems.
 
 | 🗓️ **Day** | 🧮 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |------------|---------------|--------------|-----------------|  
-| Day 36     | **Spirally traversing a matrix** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 37     | **Rotate by 90 degree** | 🟢 Easy | [Solved Check It Now!]() | 
-| Day 38     | **Search in a Row-Column sorted matrix** | 🟢 Easy | [Solved Check It Now!]() |
-| Day 39     | **Search in a row-wise sorted matrix** | 🟢 Easy | [Solved Check It Now!]() |
-| Day 40     | **Search in a sorted Matrix** | 🟡 Medium | [Solved Check It Now!]() |
-| Day 41     | **Set Matrix Zeroes** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 36     | **Spirally traversing a matrix** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Matrix/Day%201%20-%20Spirally%20traversing%20a%20matrix.md) |  
+| Day 37     | **Rotate by 90 degree** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Matrix/Day%202%20-%20Rotate%20by%2090%20degree.md) | 
+| Day 38     | **Search in a Row-Column sorted matrix** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Matrix/Day%203%20-%20Search%20in%20a%20Row-Column%20sorted%20matrix.md) |
+| Day 39     | **Search in a row-wise sorted matrix** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Matrix/Day%204%20-%20Search%20in%20a%20row-wise%20sorted%20matrix.md) |
+| Day 40     | **Search in a sorted Matrix** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Matrix/Day%205%20-%20Search%20in%20a%20sorted%20Matrix.md) |
+| Day 41     | **Set Matrix Zeroes** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Matrix/Day%206%20-%20Set%20Matrix%20Zeroes.md) |
 
 # #️⃣ **Hash Hustle**  
 Master the art of hashing with these pivotal problems.  
@@ -89,15 +89,15 @@ Master the art of hashing with these pivotal problems.
 
 | 🗓️ **Day** | #️⃣ **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    | 
 |------------|--------------------------|--------------|-----------------|  
-| Day 42     | **Two Sum - Pair with Given Sum** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 43     | **Count Pairs with Given Sum** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 44     | **Find All Triplets with Zero Sum** | 🟡 Medium | [Solved Check It Now!]() |  
-| Day 45     | **Intersection of Two arrays with Duplicate Elements** | 🟢 Easy | [Solved Check It Now!]() |  
-| Day 46     | **Union of Arrays with Duplicates** | 🟢 Easy | [Solved Check It Now!]() |
-| Day 47     | **Longest Consecutive Subsequence** | 🟡 Medium | [Solved Check It Now!]() |
-| Day 48     | **Print Anagrams Together** | 🟡 Medium | [Solved Check It Now!]() |
-| Day 49     | **Subarrays with sum K** | 🟡 Medium | [Solved Check It Now!]() |
-| Day 50     | **Count Subarrays with given XOR** | 🟡 Medium | [Solved Check It Now!]() |
+| Day 42     | **Two Sum - Pair with Given Sum** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Hashing/Day%201%20-%20Two%20Sum%20-%20Pair%20with%20Given%20Sum.md) |  
+| Day 43     | **Count Pairs with Given Sum** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Hashing/Day%202%20-%20Count%20pairs%20with%20given%20sum.md) |  
+| Day 44     | **Find All Triplets with Zero Sum** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Hashing/Day%203%20-%20Find%20All%20Triplets%20with%20Zero%20Sum.md) |  
+| Day 45     | **Intersection of Two arrays with Duplicate Elements** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Hashing/Day%204%20-%20Intersection%20of%20Two%20arrays%20with%20Duplicate%20Elements.md) |  
+| Day 46     | **Union of Arrays with Duplicates** | 🟢 Easy | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Hashing/Day%205%20-%20Union%20of%20Arrays%20with%20Duplicates.md) |
+| Day 47     | **Longest Consecutive Subsequence** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Hashing/Day%206%20-%20Longest%20Consecutive%20Subsequence.md) |
+| Day 48     | **Print Anagrams Together** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Hashing/Day%207%20-%20Print%20Anagrams%20Together.md) |
+| Day 49     | **Subarrays with sum K** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Hashing/Day%208%20-%20Subarrays%20with%20sum%20K.md) |
+| Day 50     | **Count Subarrays with given XOR** | 🟡 Medium | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Hashing/Day%209%20-%20Count%20Subarrays%20with%20given%20XOR.md) |
 
 # 🔄 **Pointer Pursuit**  
 Optimize your journey with the elegance of two-pointer techniques.  
