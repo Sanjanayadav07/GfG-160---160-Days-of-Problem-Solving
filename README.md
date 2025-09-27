@@ -133,16 +133,16 @@ Master the art of linked lists with smart manipulation and efficient designs.
 
 | 🗓️ **Day** | 🔗 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    | 
 |------------|--------------------------|--------------|-----------------|  
-| Day 65      | Reverse a Linked List           | 🟢 Easy        | [Solved Check It Now!]()   |  
-| Day 66      | Rotate a Linked List           | 🟡 Medium        | [Solved Check It Now!]()   |  
-| Day 67      | Merge two sorted linked lists           | 🟡 Medium        | [Solved Check It Now!]()   |  
-| Day 68      | Linked List Group Reverse         |    🔴 Hard     | [Solved Check It Now!]()   |  
-| Day 69      | Add Number Linked Lists           |     🟡 Medium    | [Solved Check It Now!]()   |  
-| Day 70      | Clone List with Next and Random           |     🔴 Hard    | [Solved Check It Now!]()   |  
-| Day 71      | Detect Loop in linked list           |     🟡 Medium    | [Solved Check It Now!]()   |  
-| Day 72      | Find the first node of loop in linked list           |     🟢 Easy    | [Solved Check It Now!]()   |  
-| Day 73      | Remove loop in Linked List            |     🟡 Medium    | [Solved Check It Now!]()   |  
-| Day 74      | LRU Cache             |     🔴 Hard    | [Solved Check It Now!]()   |  
+| Day 65      | Reverse a Linked List           | 🟢 Easy        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%201%20-%20Reverse%20a%20linked%20list.md)   |  
+| Day 66      | Rotate a Linked List           | 🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%202%20-%20Rotate%20a%20Linked%20List.md)   |  
+| Day 67      | Merge two sorted linked lists           | 🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%203%20-%20Merge%20two%20sorted%20linked%20lists.md)   |  
+| Day 68      | Linked List Group Reverse         |    🔴 Hard     | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%204%20-%20Linked%20List%20Group%20Reverse.md)   |  
+| Day 69      | Add Number Linked Lists           |     🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%205%20-%20Add%20Number%20Linked%20Lists.md)   |  
+| Day 70      | Clone List with Next and Random           |     🔴 Hard    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%206%20-%20Clone%20List%20with%20Next%20and%20Random.md)   |  
+| Day 71      | Detect Loop in linked list           |     🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%207%20-%20Detect%20Loop%20in%20linked%20list.md)   |  
+| Day 72      | Find the first node of loop in linked list           |     🟢 Easy    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%208%20-%20Maximum%20path%20sum%20from%20any%20node.md)   |  
+| Day 73      | Remove loop in Linked List            |     🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%209%20-%20Remove%20loop%20in%20Linked%20List.md)   |  
+| Day 74      | LRU Cache             |     🔴 Hard    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Linked%20List/Day%2010%20-%20LRU%20Cache.md)   |  
 
 # 🌀 **Recursion and Backtracking Adventure**
 Dive into the magical world of recursion and backtracking to crack even the trickiest problems! 
@@ -151,11 +151,11 @@ Dive into the magical world of recursion and backtracking to crack even the tric
 
 | 🗓️ **Day** | 🌀 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |-------------|------------------------------------------|----------------|--------------------------------------------------|  
-| Day 75      | Permutations of a Given String        | 🟡 Medium      | [Solved Check It Now!]() |
-| Day 76      | Implement Pow                         |  🟡 Medium      | [Solved Check It Now!]() |
-| Day 77      | N-Queen Problem                         | 🔴 Hard      | [Solved Check It Now!]() |
-| Day 78      | Solve the Sudoku                         | 🔴 Hard      | [Solved Check It Now!]() |
-| Day 79      | Word Search                         |    🟡 Medium   | [Solved Check It Now!]() |
+| Day 75      | Permutations of a Given String        | 🟡 Medium      | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Recursion%20and%20Backtracking/Day%201%20-%20Permutations%20of%20a%20String.md) |
+| Day 76      | Implement Pow                         |  🟡 Medium      | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Recursion%20and%20Backtracking/Day%202%20-%20Implement%20Pow.md) |
+| Day 77      | N-Queen Problem                         | 🔴 Hard      | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Recursion%20and%20Backtracking/Day%203%20-%20N-Queen%20Problem.md) |
+| Day 78      | Solve the Sudoku                         | 🔴 Hard      | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Recursion%20and%20Backtracking/Day%204%20-%20Solve%20the%20Sudoku.md) |
+| Day 79      | Word Search                         |    🟡 Medium   | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Recursion%20and%20Backtracking/Day%205%20-%20Word%20Search.md) |
 
 # 🌳 **Tree Traversals and Techniques**  
 Explore the depths of tree data structures with powerful traversal techniques!  
@@ -180,3 +180,72 @@ Explore the depths of tree data structures with powerful traversal techniques!
 | Day 93      | Lowest Common Ancestor in a BST      |    🟢 Easy    | [Solved Check It Now!]() |  
 | Day 94      | Serialize and deserialize a binary tree      |    🟡 Medium    | [Solved Check It Now!]() |  
 
+# 🔺 **Heap Havoc**  
+Master the art of heaps with priority queues, min-heaps, and max-heaps!
+
+✨ **Days Covered:** **95 to 98**
+
+| 🗓️ **Day** | 🔗 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    | 
+|------------|--------------------------|--------------|-----------------|  
+| Day 95      | k largest elements           |   🟡 Medium        | [Solved Check It Now!]() |
+| Day 96      | K Closest Points to Origin           |   🟡 Medium        | [Solved Check It Now!]() |
+| Day 97      | Merge K sorted linked lists           |   🟡 Medium        | [Solved Check It Now!]() |
+| Day 98      | Find median in a stream           |   🔴 Hard        | [Solved Check It Now!]() |
+
+# 🏗️ **Stack Struggle**  
+Master the art of **stacks** with next greater elements, valid parentheses, and more!  
+
+✨ **Days Covered:** **99 to 107**  
+
+| 🗓️ **Day** | 🔗 **Problem**                      | 🌟 **Level**   | 📂 **Solution**  |  
+|------------|----------------------------------|--------------|-----------------|  
+| Day 99     | Parenthesis Checker     | 🟢 Easy        | [Solved Check It Now!]() |  
+| Day 100     | Longest valid Parentheses     |    🔴 Hard        | [Solved Check It Now!]() |  
+| Day 101     | Next Greater Element     |  🟡 Medium        | [Solved Check It Now!]() |  
+| Day 102     | Stock span problem     |  🟡 Medium        | [Solved Check It Now!]() |  
+| Day 103     | Histogram Max Rectangular Area     |  🔴 Hard        | [Solved Check It Now!]() |  
+| Day 104     | Maximum of minimum for every window size     |  🔴 Hard        | [Solved Check It Now!]() |  
+| Day 105     | Get Min from Stack     |  🟡 Medium        | [Solved Check It Now!]() |  
+| Day 106     | Evaluation of Postfix Expression      |  🟡 Medium        | [Solved Check It Now!]() |  
+| Day 107    | Decode the string      |  🟡 Medium        | [Solved Check It Now!]() | 
+
+# 🔃 **Queue Quest & Deque Duel**  
+Conquer **queues & deques** with problems on **first non-repeating characters, sliding windows, and more!**
+
+✨ **Days Covered:** **108 to 109**  
+
+| 🗓️ **Day** | 🔗 **Problem**                      | 🌟 **Level**   | 📂 **Solution**  |  
+|------------|----------------------------------|--------------|-----------------|  
+| Day 108    | K Sized Subarray Maximum      |  🟡 Medium        | [Solved Check It Now!]() |  
+| Day 109    | Longest Bounded-Difference Subarray      |  🟡 Medium        | [Solved Check It Now!]() |  
+
+# 🧵 **Dynamic Programming Dojo**  
+Master the art of **optimal subproblems, overlapping solutions & memoized magic!** 🧠💻  
+
+✨ **Days Covered:** **110 to 132**  
+
+| 🗓️ **Day** | 🔗 **Problem**                          | 🌟 **Level**   | 📂 **Solution**  |  
+|------------|----------------------------------|--------------|-----------------|  
+| Day 110    | Longest Increasing Subsequence   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 111    | Longest String Chain   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 112    | Longest Common Subsequence   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 113    | Longest Palindromic Subsequence   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 114    | Longest Palindrome in a String   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 115    | Palindrome SubStrings   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 116    | Edit Distance   | 🔴 Hard     | [Solved Check It Now!]() |  
+| Day 117    | Ways to Reach the n'th Stair   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 118    | Min Cost Climbing Stairs   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 119    | 0 - 1 Knapsack Problem   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 120    | Coin Change (Count Ways)   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 121    | Coin Change (Minimum Coins)   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 122    | Minimum Jumps   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 123    | Subset Sum Problem   | 🟡 Medium     | [Solved Check It Now!]() |
+| Day 124    | Partition Equal Subset Sum   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 125    | Stock Buy and Sell – Max K Transactions Allowed   |  🔴 Hard     | [Solved Check It Now!]() |  
+| Day 126    | Stock Buy and Sell – Max 2 Transactions Allowed   |  🔴 Hard     | [Solved Check It Now!]() |  
+| Day 127    | Stickler Thief   |  🟡 Medium    | [Solved Check It Now!]() |  
+| Day 128    | Stickler Thief II   |  🟡 Medium    | [Solved Check It Now!]() |  
+| Day 129    | Total Decoding Messages   |  🟡 Medium    | [Solved Check It Now!]() |  
+| Day 130    | Matrix Chain Multiplication |  🔴 Hard    | [Solved Check It Now!]() |
+| Day 131    | Boolean Parenthesization |  🔴 Hard    | [Solved Check It Now!]() |
+| Day 132    | Word Break    |  🟡 Medium    | [Solved Check It Now!]() |  
