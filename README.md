@@ -164,21 +164,21 @@ Explore the depths of tree data structures with powerful traversal techniques!
 
 | 🗓️ **Day**  | 🌲 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    |  
 |-------------|------------------------------------------|----------------|--------------------------------------------------|  
-| Day 80      | Level Order Traversal      |   🟢 Easy    | [Solved Check It Now!]() |  
-| Day 81      | Height of Binary Tree      |   🟢 Easy    | [Solved Check It Now!]() |  
-| Day 82      | Diameter of a Binary Tree      |   🟡 Medium    | [Solved Check It Now!]() |  
-| Day 83      | Mirror Tree      |    🟢 Easy    | [Solved Check It Now!]() |  
-| Day 84      | Construct Tree from Inorder & Preorder      |    🟡 Medium    | [Solved Check It Now!]() |  
-| Day 85      | Inorder Traversal      |    🟢 Easy    | [Solved Check It Now!]() |  
-| Day 86      | Tree Boundary Traversal      |    🟡 Medium    | [Solved Check It Now!]() |  
-| Day 87      | Maximum path sum from any node      |    🟡 Medium    | [Solved Check It Now!]() |  
-| Day 88      | K Sum Paths      |    🟡 Medium    | [Solved Check It Now!]() |  
-| Day 89      | Check for BST      |    🟢 Easy    | [Solved Check It Now!]() |  
-| Day 90      | k-th Smallest in BST      |    🟡 Medium    | [Solved Check It Now!]() |  
-| Day 91      | Pair Sum in BST      |    🟡 Medium    | [Solved Check It Now!]() |  
-| Day 92      | Fixing Two nodes of a BST      |    🔴 Hard    | [Solved Check It Now!]() |  
-| Day 93      | Lowest Common Ancestor in a BST      |    🟢 Easy    | [Solved Check It Now!]() |  
-| Day 94      | Serialize and deserialize a binary tree      |    🟡 Medium    | [Solved Check It Now!]() |  
+| Day 80      | Level Order Traversal      |   🟢 Easy    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%201%20-%20Level%20order%20traversal.md) |  
+| Day 81      | Height of Binary Tree      |   🟢 Easy    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%202%20-%20Height%20of%20Binary%20Tree.md) |  
+| Day 82      | Diameter of a Binary Tree      |   🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%203%20-%20Diameter%20of%20a%20Binary%20Tree.md) |  
+| Day 83      | Mirror Tree      |    🟢 Easy    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%204%20-%20Mirror%20Tree.md) |  
+| Day 84      | Construct Tree from Inorder & Preorder      |    🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%205%20-%20Construct%20Tree%20from%20Inorder%20%26%20Preorder.md) |  
+| Day 85      | Inorder Traversal      |    🟢 Easy    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%206%20-%20Inorder%20Traversal.md) |  
+| Day 86      | Tree Boundary Traversal      |    🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%207%20-%20Tree%20Boundary%20Traversal.md) |  
+| Day 87      | Maximum path sum from any node      |    🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%208%20-%20Maximum%20path%20sum%20from%20any%20node.md) |  
+| Day 88      | K Sum Paths      |    🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%209%20-%20K%20Sum%20Paths.md) |  
+| Day 89      | Check for BST      |    🟢 Easy    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%2010%20-%20Check%20for%20BST.md) |  
+| Day 90      | k-th Smallest in BST      |    🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%2011%20-%20k-th%20Smallest%20in%20BST.md) |  
+| Day 91      | Pair Sum in BST      |    🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%2012%20-%20Pair%20Sum%20in%20BST.md) |  
+| Day 92      | Fixing Two nodes of a BST      |    🔴 Hard    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%2013%20-%20Fixing%20Two%20nodes%20of%20a%20BST.md) |  
+| Day 93      | Lowest Common Ancestor in a BST      |    🟢 Easy    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%2014%20-%20Lowest%20Common%20Ancestor%20in%20a%20BST.md) |  
+| Day 94      | Serialize and deserialize a binary tree      |    🟡 Medium    | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Tree/Day%2015%20-%20Serialize%20and%20deserialize%20a%20binary%20tree.md) |  
 
 # 🔺 **Heap Havoc**  
 Master the art of heaps with priority queues, min-heaps, and max-heaps!
