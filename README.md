@@ -187,10 +187,10 @@ Master the art of heaps with priority queues, min-heaps, and max-heaps!
 
 | 🗓️ **Day** | 🔗 **Problem**                           | 🌟 **Level**   | 📂 **Solution**                                    | 
 |------------|--------------------------|--------------|-----------------|  
-| Day 95      | k largest elements           |   🟡 Medium        | [Solved Check It Now!]() |
-| Day 96      | K Closest Points to Origin           |   🟡 Medium        | [Solved Check It Now!]() |
-| Day 97      | Merge K sorted linked lists           |   🟡 Medium        | [Solved Check It Now!]() |
-| Day 98      | Find median in a stream           |   🔴 Hard        | [Solved Check It Now!]() |
+| Day 95      | k largest elements           |   🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Heap/Day%201%20-%20k%20largest%20elements.md) |
+| Day 96      | K Closest Points to Origin           |   🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Heap/Day%202%20-%20K%20Closest%20Points%20to%20Origin.md) |
+| Day 97      | Merge K sorted linked lists           |   🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Heap/Day%203%20-%20Merge%20K%20sorted%20linked%20lists.md) |
+| Day 98      | Find median in a stream           |   🔴 Hard        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Heap/Day%204%20-%20Find%20median%20in%20a%20stream.md) |
 
 # 🏗️ **Stack Struggle**  
 Master the art of **stacks** with next greater elements, valid parentheses, and more!  
@@ -199,15 +199,15 @@ Master the art of **stacks** with next greater elements, valid parentheses, and 
 
 | 🗓️ **Day** | 🔗 **Problem**                      | 🌟 **Level**   | 📂 **Solution**  |  
 |------------|----------------------------------|--------------|-----------------|  
-| Day 99     | Parenthesis Checker     | 🟢 Easy        | [Solved Check It Now!]() |  
-| Day 100     | Longest valid Parentheses     |    🔴 Hard        | [Solved Check It Now!]() |  
-| Day 101     | Next Greater Element     |  🟡 Medium        | [Solved Check It Now!]() |  
-| Day 102     | Stock span problem     |  🟡 Medium        | [Solved Check It Now!]() |  
-| Day 103     | Histogram Max Rectangular Area     |  🔴 Hard        | [Solved Check It Now!]() |  
-| Day 104     | Maximum of minimum for every window size     |  🔴 Hard        | [Solved Check It Now!]() |  
-| Day 105     | Get Min from Stack     |  🟡 Medium        | [Solved Check It Now!]() |  
-| Day 106     | Evaluation of Postfix Expression      |  🟡 Medium        | [Solved Check It Now!]() |  
-| Day 107    | Decode the string      |  🟡 Medium        | [Solved Check It Now!]() | 
+| Day 99     | Parenthesis Checker     | 🟢 Easy        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Stack/Day%201%20-%20Parenthesis%20Checker.md) |  
+| Day 100     | Longest valid Parentheses     |    🔴 Hard        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Stack/Day%202%20-%20Longest%20valid%20Parentheses.md) |  
+| Day 101     | Next Greater Element     |  🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Stack/Day%203%20-%20Next%20Greater%20Element.md) |  
+| Day 102     | Stock span problem     |  🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Stack/Day%204%20-%20Stock%20span%20problem.md) |  
+| Day 103     | Histogram Max Rectangular Area     |  🔴 Hard        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Stack/Day%205%20-%20Histogram%20Max%20Rectangular%20Area.md) |  
+| Day 104     | Maximum of minimum for every window size     |  🔴 Hard        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Stack/Day%206%20-%20Maximum%20of%20minimum%20for%20every%20window%20size.md) |  
+| Day 105     | Get Min from Stack     |  🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Stack/Day%207%20-%20Get%20Min%20from%20Stack.md) |  
+| Day 106     | Evaluation of Postfix Expression      |  🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Stack/Day%208%20-%20Evaluation%20of%20Postfix%20Expression.md) |  
+| Day 107    | Decode the string      |  🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Stack/Day%209%20-%20Decode%20the%20string.md) | 
 
 # 🔃 **Queue Quest & Deque Duel**  
 Conquer **queues & deques** with problems on **first non-repeating characters, sliding windows, and more!**
@@ -216,8 +216,8 @@ Conquer **queues & deques** with problems on **first non-repeating characters, s
 
 | 🗓️ **Day** | 🔗 **Problem**                      | 🌟 **Level**   | 📂 **Solution**  |  
 |------------|----------------------------------|--------------|-----------------|  
-| Day 108    | K Sized Subarray Maximum      |  🟡 Medium        | [Solved Check It Now!]() |  
-| Day 109    | Longest Bounded-Difference Subarray      |  🟡 Medium        | [Solved Check It Now!]() |  
+| Day 108    | K Sized Subarray Maximum      |  🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Queue%20and%20Deque/Day%201%20-%20K%20Sized%20Subarray%20Maximum.md) |  
+| Day 109    | Longest Bounded-Difference Subarray      |  🟡 Medium        | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Queue%20and%20Deque/Day%202%20-%20Longest%20Bounded-Difference%20Subarray.md) |  
 
 # 🧵 **Dynamic Programming Dojo**  
 Master the art of **optimal subproblems, overlapping solutions & memoized magic!** 🧠💻  
@@ -226,7 +226,7 @@ Master the art of **optimal subproblems, overlapping solutions & memoized magic!
 
 | 🗓️ **Day** | 🔗 **Problem**                          | 🌟 **Level**   | 📂 **Solution**  |  
 |------------|----------------------------------|--------------|-----------------|  
-| Day 110    | Longest Increasing Subsequence   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 110    | Longest Increasing Subsequence   | 🟡 Medium     | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Dynamic%20Programming/Day%201%20-%20Longest%20Increasing%20Subsequence.md) |  
 | Day 111    | Longest String Chain   | 🟡 Medium     | [Solved Check It Now!]() |  
 | Day 112    | Longest Common Subsequence   | 🟡 Medium     | [Solved Check It Now!]() |  
 | Day 113    | Longest Palindromic Subsequence   | 🟡 Medium     | [Solved Check It Now!]() |  
@@ -235,9 +235,9 @@ Master the art of **optimal subproblems, overlapping solutions & memoized magic!
 | Day 116    | Edit Distance   | 🔴 Hard     | [Solved Check It Now!]() |  
 | Day 117    | Ways to Reach the n'th Stair   | 🟡 Medium     | [Solved Check It Now!]() |  
 | Day 118    | Min Cost Climbing Stairs   | 🟡 Medium     | [Solved Check It Now!]() |  
-| Day 119    | 0 - 1 Knapsack Problem   | 🟡 Medium     | [Solved Check It Now!]() |  
-| Day 120    | Coin Change (Count Ways)   | 🟡 Medium     | [Solved Check It Now!]() |  
-| Day 121    | Coin Change (Minimum Coins)   | 🟡 Medium     | [Solved Check It Now!]() |  
+| Day 119    | 0 - 1 Knapsack Problem   | 🟡 Medium     | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Dynamic%20Programming/Day%2010%20-%200%20-%201%20Knapsack%20Problem.md) |  
+| Day 120    | Coin Change (Count Ways)   | 🟡 Medium     | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Dynamic%20Programming/Day%2011%20-%20Coin%20Change%20(Count%20Ways).md) |  
+| Day 121    | Coin Change (Minimum Coins)   | 🟡 Medium     | [Solved Check It Now!](https://github.com/Sanjanayadav07/GfG-160---160-Days-of-Problem-Solving/blob/main/Dynamic%20Programming/Day%2012%20-%20Coin%20Change%20(Minimum%20Coins).md) |  
 | Day 122    | Minimum Jumps   | 🟡 Medium     | [Solved Check It Now!]() |  
 | Day 123    | Subset Sum Problem   | 🟡 Medium     | [Solved Check It Now!]() |
 | Day 124    | Partition Equal Subset Sum   | 🟡 Medium     | [Solved Check It Now!]() |  
